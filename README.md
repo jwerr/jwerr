@@ -10,18 +10,6 @@ Status: Open to Backend and Software Engineering roles
 
 I'm a backend engineer who cares about the parts of software users never see: APIs, queues, caches, and pipelines that make everything else feel fast and reliable. Over 3+ years across Connex AI and IdeaEdu, I've built Python/FastAPI services, optimized PostgreSQL schemas, and shipped LangChain/OpenAI pipelines for document summarization and intent classification. My focus: performance that's measured, not assumed.
 
-### Experience
-
-Connex AI - Junior Software Developer Intern, Core Engine Team (Oct 2025 - Present)
-- Engineered Python/FastAPI backend services, reducing API latency by 20% through async optimization and query tuning
-- Optimized 10+ SQL queries and redesigned PostgreSQL schemas, cutting execution time by 30%
-- Deployed 3 LangChain/OpenAI pipelines for document summarization and intent classification
-- Built 20+ reusable backend modules adopted across teams, trimming build time by 25%
-
-IdeaEdu - Full Stack Developer (Apr 2022 - Jun 2024)
-- Shipped a Python/FastAPI + SQLite learning platform supporting 40+ concurrent users
-- Developed 8+ API endpoints with input validation, lowering response time by 40%
-- Built React.js/Chart.js dashboards that improved student engagement by 35%
 
 ### Featured Projects
 
